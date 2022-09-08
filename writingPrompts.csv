@@ -1,0 +1,178 @@
+Text,Activity
+Discuss your favorite holiday.,passagePrompts
+Describe your childhood pet.,passagePrompts
+Talk about your happiest memory.,passagePrompts
+Describe your favorite place using as much detail as you can.,passagePrompts
+"Describe a famous person, such as an athlete, actor, or singer. Describe their appearance.",passagePrompts
+Choose a hobby and talk about how you do it.,passagePrompts
+"Pick a favorite food and describe the smell, taste, and enjoyment of eating it.",passagePrompts
+Give a detailed description of your best friend or a family member.,passagePrompts
+Explain how to cook your favorite dish.,passagePrompts
+Describe how to brush your teeth.,passagePrompts
+Describe the best way to pack a suitcase.,passagePrompts
+Write about a goal you want to achieve and how you will achieve it.,passagePrompts
+Discuss your earliest memory as a child.,passagePrompts
+Describe your dream house.,passagePrompts
+What is your favorite movie or book? Why?,passagePrompts
+Write about something funny that happened to you this week.,passagePrompts
+What is friendship?,passagePrompts
+What do you do when you’re not at school?,passagePrompts
+What is one thing you can never live without? Why?,passagePrompts
+Describe a party you attended.,passagePrompts
+"If you could change something in your past, what would it be?",passagePrompts
+Describe your neighborhood in detail.,passagePrompts
+Discuss all the sights and sounds at your last birthday party.,passagePrompts
+What is your opinion of cellphones? Are they good or bad?,passagePrompts
+What’s your opinion about recycling?,passagePrompts
+Describe a time in your life when someone treated you unfairly.,passagePrompts
+Give directions on how to find something quickly on the internet.,passagePrompts
+What would you do if you were lost in the city?,passagePrompts
+Describe a sporting or music event you attended.,passagePrompts
+Talk about a time that you lost something and how you found it again.,passagePrompts
+Write about a time you had to make a hard decision.,passagePrompts
+"If you could buy a gift for a loved one, no matter how much it cost, what would you buy them? Why?",passagePrompts
+What is the best way to study for a test?,passagePrompts
+Describe something you’re good at?,passagePrompts
+"Write about a time you felt scared, describing where you were at and what scared you.",passagePrompts
+Describe the car of your dreams.,passagePrompts
+"If you could change an event in history, what would it be?",passagePrompts
+How would your life change if you won the lottery?,passagePrompts
+Would you rather watch a movie or read a book? Why?,passagePrompts
+Do you think that smoking in public should be banned? Why?,passagePrompts
+Write about how you prepare for class.,passagePrompts
+"Describe how to make a bed, giving every step.",passagePrompts
+Explain how to play your favorite cellphone or computer game. Give some playing tips.,passagePrompts
+Give directions to your house from school or work.,passagePrompts
+Describe your favorite piece of art using as much detail as you can.,passagePrompts
+Pick a character from a movie or book and describe them in detail.,passagePrompts
+Write about going to your favorite restaurant and describe the food there.,passagePrompts
+Should students go to school year-round or have a long summer vacation? Why?,passagePrompts
+Describe your ideal weekend if you were able to do anything you want.,passagePrompts
+Where did you grow up?,convo_starters
+Do you have any pets?,convo_starters
+Do you have any siblings?,convo_starters
+Do you know what your your name means?,convo_starters
+What type of phone do you have?,convo_starters
+What did you do this past weekend?,convo_starters
+What are your plans for this weekend?,convo_starters
+What do you like to do in your spare time?,convo_starters
+What is the first thing you do when you wake up?,convo_starters
+What is the last thing you do before you go to sleep?,convo_starters
+What is your middle name?,convo_starters
+What was the last thing you purchased?,convo_starters
+What is your favorite holiday?,convo_starters
+What is your favorite day of the week?,convo_starters
+"If you could meet anyone in history, who would it be?",convo_starters
+What do you like to do to relax?,convo_starters
+Are you a saver or a spender?,convo_starters
+Do you play any instruments?,convo_starters
+What was your favorite children's book?,convo_starters
+What is your first childhood memory?,convo_starters
+"What type of kid were you (e.g. spoiled, rebellious, well-behaved, quiet, obnoxious...)?",convo_starters
+What is one thing you miss about being a kid?,convo_starters
+What did you want to grow up to be when you were younger?,convo_starters
+Where did (do) you go to school?,convo_starters
+What was (is) your favorite subject?,convo_starters
+What was (is)  your least favorite subject?,convo_starters
+What's the first thing you do after school/work?,convo_starters
+Were you the class clown or teacher's pet?,convo_starters
+What do you do for a living?,convo_starters
+What is your dream job?,convo_starters
+"If you had $10 million, would you still be working/going to school?",convo_starters
+What was your least favorite job that you've ever had?,convo_starters
+What is something that you have gotten in trouble for at school/work?,convo_starters
+What is the first think you notice about a guy or girl?,convo_starters
+Have you ever been in love?,convo_starters
+Do you believe in soul mates?,convo_starters
+What are your turn offs?,convo_starters
+Do you believe in love at first sight?,convo_starters
+Do you prefer short hair or long hair on a guy/girl?,convo_starters
+What do you look for in a guy/girl?,convo_starters
+Who was the last person you called?,convo_starters
+Would you rather be rich and never find true love or be poor and find true love?,convo_starters
+Who is your favorite athlete?,convo_starters
+How often do you exercise?,convo_starters
+What is your favorite sports team?,convo_starters
+Do you play any sports?,convo_starters
+Where was the last place you went on vacation?,convo_starters
+Where do you plan on going for your next vacation?,convo_starters
+"If you could live anywhere in the world, where would it be?",convo_starters
+What countries have you traveled to?,convo_starters
+What was your worst vacation experience?,convo_starters
+What is your favorite drink?,convo_starters
+What is your favorite food?,convo_starters
+What is your favorite meal of the day?,convo_starters
+Are there any foods that you dislike or will not eat?,convo_starters
+Are there any foods that you would like to try?,convo_starters
+What is your favorite restaurant?,convo_starters
+What is your favorite pizza topping?,convo_starters
+What is your favorite ice cream flavor?,convo_starters
+What did you have for dinner last night?,convo_starters
+What is the signature dish that you cook?,convo_starters
+Who is your favorite actor?,convo_starters
+What is your favorite movie of all time?,convo_starters
+What was the worst movie you've ever seen?,convo_starters
+What is your favorite TV show?,convo_starters
+What was the last movie you've seen?,convo_starters
+What type of music do you like to listen to?,convo_starters
+Who is your favorite music artist?,convo_starters
+What was the last book you read?,convo_starters
+Who do you look up to?,convo_starters
+Where do you see yourself 5 years from now?,convo_starters
+What are you scared of?,convo_starters
+What is the best piece of advice you've received?,convo_starters
+What do your parents do for a living?,convo_starters
+What is your biggest regret?,convo_starters
+What is your most embarrassing moment?,convo_starters
+What is the craziest thing you've ever done?,convo_starters
+What are some of your short-term goals?,convo_starters
+What are some of your long-term goals?,convo_starters
+Do you sleep with a stuffed animal?,convo_starters
+Tell me about your first car.,convo_starters
+Do you drink coffee or tea?,convo_starters
+"If you could have any super power, what would it be?",convo_starters
+"If you were stranded on a deserted island and you could have only 1 item, what would it be?",convo_starters
+Do you believe in luck?,convo_starters
+Do you play video games?,convo_starters
+Do you believe people are inherently good?,convo_starters
+How often do you shower?,convo_starters
+What is your favorite board game?,convo_starters
+What is your favorite charity?,convo_starters
+Have you ever gotten a speeding ticket?,convo_starters
+Do you prefer cats or dogs?,convo_starters
+Would you prefer to live in the city or a rural area?,convo_starters
+What is your favorite season?,convo_starters
+Do you speak any other languages?,convo_starters
+Have you ever cried because you were so happy?,convo_starters
+What is the best thing that happened to you during the past week?,convo_starters
+What is the worst thing that happened to you during the past week?,convo_starters
+Do you sing in the shower?,convo_starters
+What is the most valuable thing that you own?,convo_starters
+What would you do if you only had 24 hours left to live?,convo_starters
+Write a letter of thanks to one or both of your parents for the most recent thing they helped you with.,letterPrompts
+Write a letter to your grandparents that describes what you’ve been doing lately at school.,letterPrompts
+Write a letter to a friend that includes one or two of your favorite memories together.,letterPrompts
+Write a letter to the president and share your opinion on a current event with him.,letterPrompts
+Research a local issue and then write a letter to a local congressperson about it.,letterPrompts
+Write a letter to “the world” in which you share your ideals for the future.,letterPrompts
+Write a letter to your past self. Tell him or her things you wish you had known then.,letterPrompts
+Write a letter to your future self. Share your hopes and dreams or things you’d like to remember with him or her.,letterPrompts
+Write a letter to one of your ancestors telling them what your family is like today.,letterPrompts
+Write a letter to someone from the future telling him or her what life is like here in the early 21st,letterPrompts
+Write a letter to someone your age who lives in another country. Describe your life and find out how his or hers differs.,letterPrompts
+Write a letter to an anonymous stranger. Tell him or her anything you’d like to share.,letterPrompts
+Write a descriptive letter that could convince someone why your stance on an issue is correct.,letterPrompts
+Write a letter to your favorite celebrity and tell him or her what you love about his or her work.,letterPrompts
+Write an encouraging letter to yourself to read when you are feeling sad.,letterPrompts
+"Write a coded letter to a friend. Then, exchange letters and try to figure out what the other person wrote.",letterPrompts
+Write an opinionated letter to your local newspaper about an issue that matters to you.,letterPrompts
+Write a letter to someone you admire and tell the person what you appreciate about him or her.,letterPrompts
+"Write a letter of commitment that you want to make to yourself. Then, plan when and how often you will re-read it.",letterPrompts
+Write a letter to someone you haven’t seen in a long time and catch him or her up on your life.,letterPrompts
+"Write a letter to someone you’re angry at and express all the things you’ve wanted to say—and then, destroy the letter!",letterPrompts
+Write a letter to someone that you’d like to get to know better and introduce yourself.,letterPrompts
+Write a letter to a school official and tell him or her one thing you’d like to see improved at our school.,letterPrompts
+Write a letter in support of a charitable organization that you admire.,letterPrompts
+"Write a letter to your favorite character from a book, movie, or TV show. Ask him or her all your questions or share your favorite parts of his or her story.",letterPrompts
+Write a letter nominating someone you know for an award they deserve. Explain why he or she is deserving of the honor.,letterPrompts
+Write a letter to someone you appreciate and let him or her know how he or she has made an impact on your life.,letterPrompts
